@@ -1,6 +1,5 @@
-<div align="center">
-  <h3 align="center">Iphone 15 Website</h3>  
-</div>
+<h3 align="center">Iphone 15 Website</h3>  
+
 Install the project dependencies using npm:
 
 ```bash
